@@ -1,0 +1,68 @@
+PostUpdateIntent  {Person} is {Status}
+PostUpdateIntent  {Person} will be {Status}
+PostUpdateIntent  {Person} is {Status} today
+PostUpdateIntent  {Person} will be {Status} today
+
+PostUpdateIntent  hey {Person} is {Status}
+PostUpdateIntent  hey {Person} will be {Status}
+PostUpdateIntent  hey {Person} is {Status} today
+PostUpdateIntent  hey {Person} will be {Status} today
+
+PostUpdateIntent  send {Person} is {Status}
+PostUpdateIntent  send {Person} will be {Status}
+PostUpdateIntent  send {Person} is {Status} today
+PostUpdateIntent  send {Person} will be {Status} today
+
+PostUpdateIntent  tell slack {Person} is {Status}
+PostUpdateIntent  tell slack {Person} will be {Status}
+PostUpdateIntent  tell slack {Person} is {Status} today
+PostUpdateIntent  tell slack {Person} will be {Status} today
+
+PostUpdateIntent  let the team know {Person} is {Status}
+PostUpdateIntent  let the team know {Person} will be {Status}
+PostUpdateIntent  let the team know {Person} is {Status} today
+PostUpdateIntent  let the team know {Person} will be {Status} today
+
+PostUpdateIntent  send to slack {Person} is {Status}
+PostUpdateIntent  send to slack {Person} will be {Status}
+PostUpdateIntent  send to slack {Person} is {Status} today
+PostUpdateIntent  send to slack {Person} will be {Status} today
+
+PostUpdateIntent  let slack know {Person} is {Status}
+PostUpdateIntent  let slack know {Person} will be {Status}
+PostUpdateIntent  let slack know {Person} is {Status} today
+PostUpdateIntent  let slack know {Person} will be {Status} today
+
+PostUpdateIntent  it's {Person} I need to take {Status}
+PostUpdateIntent  it's {Person} I need to take {Status} today
+PostUpdateIntent  it's {Person} I will be taking {Status}
+PostUpdateIntent  it's {Person} I will be taking {Status} today
+
+
+
+GetUpdatesIntent  get slack updates
+GetUpdatesIntent  tell me the teams status
+GetUpdatesIntent  whats up
+GetUpdatesIntent  standup time
+GetUpdatesIntent  standup
+GetUpdatesIntent  get standup updates
+GetUpdatesIntent  get stand up updates
+GetUpdatesIntent  tell us updates
+GetUpdatesIntent  tell us standup updates
+GetUpdatesIntent  tell us stand up updates
+
+
+
+WinTeamIntent who is hack days winner
+
+
+
+AtoStatusIntent  tell us know outages
+AtoStatusIntent  When is the tax office down
+AtoStatusIntent  When is the ATO next down
+AtoStatusIntent  When is the ATO down next
+AtoStatusIntent  When is the ATO EVTE next down
+AtoStatusIntent  When is the ATO EVTE down next
+
+
+GaryBeardIntent Should Gary shave his beard

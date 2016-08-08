@@ -1,0 +1,53 @@
+{
+ "intents": [
+   {
+     "intent": "PostUpdateIntent",
+     "slots": [
+       {
+         "name": "Person",
+         "type": "USERNAME"
+       },
+       {
+         "name": "Status",
+         "type": "WORK_STATUS"
+       }
+     ]
+   },
+   {
+     "intent": "GetUpdatesIntent",
+     "slots": []
+   },
+   {
+     "intent": "PostStoryUpdateIntent",
+     "slots":  [
+       {
+         "name": "Story",
+         "type": "STORY_NAME"
+       },
+       {
+         "name": "StoryStatus",
+         "type": "STORY_STATUS"
+       }
+     ]
+   },
+   {
+     "intent": "GetStoryUpdatesIntent",
+     "slots": []
+   },
+   {
+     "intent": "WinTeamIntent",
+     "slots": []
+   },
+   {
+     "intent": "AtoStatusIntent",
+     "slots": []
+   },
+   {
+     "intent": "GaryBeardIntent",
+     "slots": []
+   },
+   {
+     "intent": "AMAZON.HelpIntent"
+   }
+ ]
+}

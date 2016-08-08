@@ -1,0 +1,4 @@
+USERNAME
+gary | gazza | ruslan | cherry | ingdra | scott | ray
+WORK_STATUS
+Sick | Away | On Leave | Working From Home | Running Late
